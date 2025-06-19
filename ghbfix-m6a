@@ -1,0 +1,10 @@
+&rst iat = 306,687,
+iresid = 0, nstep1 = 0, nstep2 = 0,
+irstyp = 0, ifvari = 0, ninc = 0, imult = 0, ir6 = 0, ifntyp = 0,
+r1 = 0.0, r2 = 1.8, r3 = 1.8, r4 = 1.816, rk2 = 0.000, rk3 = 386.4,
+/
+&rst iat = 306,687,
+iresid = 0, nstep1 = 0, nstep2 = 0,
+irstyp = 0, ifvari = 0, ninc = 0, imult = 0, ir6 = 0, ifntyp = 0,
+r1 = 0.0, r2 = 1.8, r3 = 1.8, r4 = 5.0, rk2 = 0.000, rk3 = -2.094,
+/
