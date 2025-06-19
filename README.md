@@ -31,7 +31,7 @@ Create a `ghbfix` file (e.g., `ghbfix-m6a`) to define energy restraints. The for
 ```  
 **Key Notes**:  
 - `atom_1`, `atom_2`: Atom indices from your PDB file.  
-- `[]` values: Replace with parameters from `E1`/`E2` (adjust units if needed; see [example file](https://github.com/example/ghbfix-m6a)).  
+- `[]` values: Replace with parameters from `E1`/`E2` (adjust units if needed; see [ghbfix-m6a](https://github.com/Barakhsaana/MODM6A/blob/main/ghbfix-m6a)).  
 
 ---
 
