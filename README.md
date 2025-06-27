@@ -64,7 +64,4 @@ Here are comments from the DISANG input file:
 ```
 - It can also be validated by MD results. 
 
----
 
-## References  
-: 还没写 ([DOI:blabla](https://doi.org/blabla)).  
